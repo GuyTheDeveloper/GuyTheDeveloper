@@ -1,6 +1,6 @@
 <div align="left">
 
-# Assalomu Alaykum, I'm Guy 🚀📖
+# Assalomu Alaykum, I'm [Guy](https://happy-guythedevelopers-portfolio.vercel.app) 🚀📖
 
 A curious soul, a coding enthusiast, a space nerd, a poet of code, bookworm on a journey through the digital and literary worlds and a proud Muslim, I wander through the cosmos of creativity, fueled by caffeine (Cocoa, my mom said no), guided by the wisdom of the written word, and anchored in faith! 🌌👨🏻‍💻🏋️‍♂️📚🕋
 
@@ -39,7 +39,7 @@ A curious soul, a coding enthusiast, a space nerd, a poet of code, bookworm on a
 
 - 💬 Telegram: [@Fast_hand_Ling](https://t.me/Fast_hand_Ling)
 - 📧 Email: [goldenrodge99@gmail.com](mailto:goldenrodge99@gmail.com)
-<!-- - 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com) -->
+- 🌐 Portfolio: [my portfolio site](https://happy-guythedevelopers-portfolio.vercel.app/)
 - 📷 Instagram: [@golden_efrat99](https://instagram.com/golden_efrat99)
 
 🚨 **Important**: For quicker and more direct communication, please reach out to me on Telegram. It's the preferred way to connect with me. I'm looking forward to our conversation! 🚀
